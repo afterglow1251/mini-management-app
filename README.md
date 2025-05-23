@@ -1,6 +1,6 @@
 # Mini Project Management App 💼🛠️
 
-Full-stack application for working with a database of superheroes.
+Full-stack application: project management app.
 
 **Backend**: NestJS  
 **Frontend**: React
